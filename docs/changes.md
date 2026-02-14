@@ -1,4 +1,4 @@
-# Magisk Changelog
+# Magisk Changelog последняя версия
 
 ### v30.6 (2025.12.1)
 
@@ -22,6 +22,7 @@
 
 ### v30.2 (2025.8.6)
 
+
 - [Core] Fix an edge case breaking modules when overlayfs is involved
 - [Core] Fix module `.replace` functionality in certain situations
 - [resetprop] Reduce property modification traces
@@ -30,6 +31,7 @@
 
 - [Core] Fix bug in module mounting implementation
 - [MagiskSU] Add ability to restrict Linux capabilities even if running as root (uid=0)
+
 
 ### v30.0 (2025.7.1)
 
